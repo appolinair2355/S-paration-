@@ -1,0 +1,8 @@
+flask
+flask-cors
+werkzeug
+gunicorn
+numpy
+tensorflow
+spleeter
+ffmpeg-python
